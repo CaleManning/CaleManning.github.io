@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
-title: Your Name
+title: Cale Manning
 description: Programming Portfolio
+### Past Assignments
+1.	Adventure Game Create an Adventure Game. In past classes I've had Adventure Game assignments so I went with creating something that was a bit more challenging mathematically and would have multiple outcomes.
+2.	Study Application Create an App to help you study. To solve this I created a for loop that would run through all the precreated items. To make things more challenging the answers would be displayed randomly so you couldn't memorize the order.
+3.	Explorable Areas Challenge was to create 4 'worlds' with objects inside them. In order to do the least amount of work I just made broad classes for all 4 worlds. Using Ascii I displayed variable menus that could adapt based on how many choices were given. Certain worlds needed certain items which would be checked before entry was allowed.
+4.	Adopt-An-Insect This project you had to create an insect with different names and information. I took this a step further by adding in hunger thirst and other stats that you could influence based on how you interacted with it. Example not feed it enough and it will hate you then die.
+5.	Shift Cipher Cipher and decipher messages. Programmable cipher and deciphering machine to help create 'secret messages'.
+6.	Triva Game Create a trivia game to quiz users. I solved this challenge by creating an array list and running it through a for loop. Each question class had 4 potential choices but only one was correct.
