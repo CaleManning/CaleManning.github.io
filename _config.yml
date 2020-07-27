@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Cale Manning
 description: Programming Portfolio
-### Past Assignments
+title: Past Assignments
 1.	Adventure Game Create an Adventure Game. In past classes I've had Adventure Game assignments so I went with creating something that was a bit more challenging mathematically and would have multiple outcomes.
 2.	Study Application Create an App to help you study. To solve this I created a for loop that would run through all the precreated items. To make things more challenging the answers would be displayed randomly so you couldn't memorize the order.
 3.	Explorable Areas Challenge was to create 4 'worlds' with objects inside them. In order to do the least amount of work I just made broad classes for all 4 worlds. Using Ascii I displayed variable menus that could adapt based on how many choices were given. Certain worlds needed certain items which would be checked before entry was allowed.
